@@ -1,0 +1,22 @@
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Notational Conventions  . . . . . . . . . . . . . . . . . . .   3
+   3.  Comparison to RFC 2231 and Definition of the Encoding . . . .   3
+     3.1.  Parameter Continuations . . . . . . . . . . . . . . . . .   4
+     3.2.  Parameter Value Character Encoding and Language
+           Information . . . . . . . . . . . . . . . . . . . . . . .   4
+       3.2.1.  Definition  . . . . . . . . . . . . . . . . . . . . .   4
+       3.2.2.  Historical Notes  . . . . . . . . . . . . . . . . . .   6
+       3.2.3.  Examples  . . . . . . . . . . . . . . . . . . . . . .   6
+     3.3.  Language Specification in Encoded Words . . . . . . . . .   7
+   4.  Guidelines for Usage in HTTP Header Field Definitions . . . .   7
+     4.1.  When to Use the Extension . . . . . . . . . . . . . . . .   8
+     4.2.  Error Handling  . . . . . . . . . . . . . . . . . . . . .   8
+   5.  Security Considerations . . . . . . . . . . . . . . . . . . .   9
+   6.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   9
+   7.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   9
+     7.1.  Normative References  . . . . . . . . . . . . . . . . . .   9
+     7.2.  Informative References  . . . . . . . . . . . . . . . . .  10
+   Appendix A.  Changes from RFC 5987  . . . . . . . . . . . . . . .  12
+   Appendix B.  Implementation Report  . . . . . . . . . . . . . . .  12
+   Acknowledgements  . . . . . . . . . . . . . . . . . . . . . . . .  13
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  13
